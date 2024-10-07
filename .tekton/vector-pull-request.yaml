@@ -860,7 +860,7 @@ spec:
                   readOnly: true
               workingDir: $(workspaces.workspace.path)/hacbs/$(context.task.name)
             - name: upload
-              image: quay.io/konflux-ci/oras:latest@sha256:1619b84cea3777387f643d7a1ecde98dd10904439f31607e66530cd2299c7b91
+              image: quay.io/konflux-ci/oras:latest@sha256:0fdcb8ad0528042006457e57281532409a4d6e891f61208f96ab2b7b7b1746b6
               workingDir: $(workspaces.workspace.path)/hacbs/$(context.task.name)
               env:
                 - name: IMAGE_URL
