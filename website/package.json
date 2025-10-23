@@ -32,7 +32,7 @@
     "atomic-algolia": "^0.3.19",
     "autoprefixer": "^10.2.5",
     "babel-preset-next": "^1.4.0",
-    "chalk": "^4.1.1",
+    "chalk": "^5.0.0",
     "cheerio": "^1.0.0-rc.5",
     "classnames": "^2.3.1",
     "core-js": "^3.14.0",
