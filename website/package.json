@@ -27,7 +27,7 @@
     "@types/lodash.chunk": "^4.2.6",
     "@types/node": "^16.0.1",
     "@types/topojson-specification": "^1.0.1",
-    "algoliasearch": "^4.10.3",
+    "algoliasearch": "^5.0.0",
     "alpinejs": "^2.8.2",
     "atomic-algolia": "^0.3.19",
     "autoprefixer": "^10.2.5",
