@@ -16,7 +16,7 @@ GEM
     public_suffix (5.0.1)
     rchardet (1.8.0)
     semantic (1.6.1)
-    toml-rb (2.0.1)
+    toml-rb (2.2.0)
       citrus (~> 3.0, > 3.0)
 
 PLATFORMS
@@ -33,4 +33,4 @@ RUBY VERSION
    ruby 3.1.4p223
 
 BUNDLED WITH
-   2.4.14
+   2.7.2
